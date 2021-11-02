@@ -37,7 +37,11 @@ public enum Version: String {
     case iPhone12
     case iPhone12Pro
     case iPhone12Pro_Max
-
+    case iPhone13Mini
+    case iPhone13
+    case iPhone13Pro
+    case iPhone13Pro_Max
+    
     /*** iPad ***/
     case iPad1
     case iPad2
