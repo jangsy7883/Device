@@ -49,7 +49,7 @@ public class Device {
         let sizeInInches = Device.sizeInInches()
 
         switch sizeInInches {
-        case 11: 
+        case 11:
             return Size.screen11Inch
         case 12:
             return Size.screen12Inch
